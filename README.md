@@ -1,3 +1,3 @@
-# Low_Level_IO
+# 2020 Computer Architecture & Assembly Language Portfolio Project
 
-2020 Computer Architecture & Assembly Language Portfolio Project
+Read Proj6_Morrowj2.asm for code
