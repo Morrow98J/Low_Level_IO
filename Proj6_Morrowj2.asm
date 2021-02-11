@@ -2,9 +2,7 @@ TITLE Program 6     (Proj6_Morrowj2.asm)
 
 ; Author: Jacob Morrow
 ; Last Modified: 12/8/2020
-; OSU email address: Morrowj2@oregonstate.edu
-; Course number/section:   CS271 Section 400
-; Project Number: 6               Due Date: 12/8/2020 (2 Grace Days)
+; Project Number: 6
 ; Description: Program that gets 10 signed 32-bit integers, validates and
 ; converts from ascii to sdword, to then display array of SDWORDS after converting
 ; back to ascii alongside sum and floor rounded average.
