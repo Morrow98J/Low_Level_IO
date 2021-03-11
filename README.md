@@ -2,4 +2,4 @@
 
 Source code: Proj6_Morrowj2.asm
 
-Program that gets 10 signed 32-bit integers, validates and converts from ASCII to SDWORD, to then display an array of SDWORDS after converting back to ASCII alongside its sum and floor rounded average.
+Program to get 10 signed 32-bit integers to be converted back and forth between ASCII and SDWORD to display its sum and the rounded average.
